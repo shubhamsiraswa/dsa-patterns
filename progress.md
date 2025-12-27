@@ -10,7 +10,7 @@
 ---
 
 ## 📊 Overall Progress
-- **Total Problems Solved:** 1/200
+- **Total Problems Solved:** 2/200
 - **Patterns Mastered:** 0/14
 - **Mock Interviews Done:** 0/10
 - **Current Confidence:** 3/10
